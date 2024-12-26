@@ -1,2 +1,2 @@
-# snotel_shef
-quickly implement data feed for snotel
+# snotel_data
+quickly implemented data feed for snotel

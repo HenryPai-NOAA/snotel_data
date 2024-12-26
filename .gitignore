@@ -1,0 +1,7 @@
+# ignoring various files and directories
+incoming/*
+logs/*
+meta/config.yaml
+
+# vscode settings
+.vscode/
